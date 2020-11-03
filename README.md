@@ -3,6 +3,6 @@
 Scoop Bucket for @p-rs binaries of [eschargo](https://github.com/p-rs/eschargo), powered by @goreleaser
 
 ```sh
-scoop bucket add p-rs/scoop-eschargo
+scoop bucket add eschargo https://github.com/p-rs/scoop-eschargo.git
 scoop install eschargo
 ```
