@@ -1,0 +1,21 @@
+{
+    "version": "0.3.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/p-rs/eschargo/releases/download/v0.3.3/eschargo_0.3.3_windows_386.tar.gz",
+            "bin": [
+                "ecg.exe"
+            ],
+            "hash": "a4b476c66f9e810cd4c938ebf83eafa516c397b40d89cf42bc5cc2a4a6d04957"
+        },
+        "64bit": {
+            "url": "https://github.com/p-rs/eschargo/releases/download/v0.3.3/eschargo_0.3.3_windows_amd64.tar.gz",
+            "bin": [
+                "ecg.exe"
+            ],
+            "hash": "99c7ad2658cde73f084552749157adad35ff919d34a37b260e4ae6419d2e5ccc"
+        }
+    },
+    "license": "MIT",
+    "description": "Escape Regex Metacharacters, made in Go."
+}
