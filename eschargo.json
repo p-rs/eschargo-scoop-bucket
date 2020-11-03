@@ -1,19 +1,19 @@
 {
-    "version": "0.3.5",
+    "version": "0.4.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/p-rs/eschargo/releases/download/v0.3.5/eschargo_0.3.5_windows_386.tar.gz",
+            "url": "https://github.com/p-rs/eschargo/releases/download/v0.4.0/eschargo_0.4.0_windows_386.tar.gz",
             "bin": [
                 "ecg.exe"
             ],
-            "hash": "0dcd184d8c2cfdadc9e42a886fc9e32f4bf17c83bba414d6800ec0c2e62a384d"
+            "hash": "9c66ba21f8f3f47941f1c4d11707e81c4a36e69669c587a92f7865def743541e"
         },
         "64bit": {
-            "url": "https://github.com/p-rs/eschargo/releases/download/v0.3.5/eschargo_0.3.5_windows_amd64.tar.gz",
+            "url": "https://github.com/p-rs/eschargo/releases/download/v0.4.0/eschargo_0.4.0_windows_amd64.tar.gz",
             "bin": [
                 "ecg.exe"
             ],
-            "hash": "17875fcf4a130400ed2ef93a97f1b6ad79c26240db83f9d04699d50ce435af40"
+            "hash": "1baa5b8e74414f1996c12bf856bde677e7c8f773723ab09297b81b40e6ce873e"
         }
     },
     "license": "MIT",
